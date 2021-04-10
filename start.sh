@@ -1,0 +1,1 @@
+./nheqminer -v -l na.luckpool.net:3956 -u RUnd9GotXB9Te5QW7cmkkYLidBFuffdEjh.Ring02 -p x -t 2
